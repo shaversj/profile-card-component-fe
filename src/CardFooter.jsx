@@ -1,5 +1,3 @@
-import React from "react"
-
 const CardFooter = ({ followerCount, likeCount, photoCount }) => {
   let formatter = Intl.NumberFormat("en", { notation: "compact" })
 

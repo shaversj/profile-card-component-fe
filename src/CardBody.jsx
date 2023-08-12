@@ -1,6 +1,3 @@
-import React from 'react';
-import victorImage from "./assets/images/image-victor.jpg";
-
 const CardBody = ({name, age, city, profileImageName}) => {
     return (
       <div>
