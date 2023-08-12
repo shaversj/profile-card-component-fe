@@ -6,7 +6,7 @@
 
 body {
     background-color: hsl(185, 75%, 39%);
-    background-image: url(src/assets/images/bg-pattern-top.svg), url(src/assets/images/bg-pattern-bottom.svg);
+    background-image: url(/public/bg-pattern-top.svg), url(/public/bg-pattern-bottom.svg);
     background-repeat: no-repeat, no-repeat;
     background-position: right 48vw bottom 40vh, left 45vw top 44vh;
 }
